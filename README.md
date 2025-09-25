@@ -13,6 +13,6 @@ Contact Page – Details on how to reach me
 - CSS3
 
 📌 How to View
-You can view the website directly here 👉 [Link]
+You can view the website directly here 👉 [ https://adhnan26.github.io/portfolio-simple-website/]
 
 Thank you for visiting my portfolio website.
